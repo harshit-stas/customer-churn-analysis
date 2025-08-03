@@ -34,4 +34,9 @@ This project analyzes customer churn behavior using a real-world telecom dataset
 ---
 
 ## 📁 Project Structure
+customer-churn-analysis/
+├── data/
+├── notebooks/
+├── images/
+├── README.md
 
